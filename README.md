@@ -1,19 +1,27 @@
-### Hi there 👋
 
-<!--
-**Shankalpa012/shankalpa012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1064" alt="Screen Shot 2023-02-27 at 10 06 39 PM" src="https://user-images.githubusercontent.com/67906589/221623065-abfedd7e-072a-428b-a0fb-3f17938e3b69.png">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://user-images.githubusercontent.com/67906589/221605910-7039ecb4-41e5-4aa3-819b-bf367aaf78b7.gif" width="100%" height="100%" />
 
-![Shankalpa koirala]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
