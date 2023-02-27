@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://user-images.githubusercontent.com/67906589/221605910-7039ecb4-41e5-4aa3-819b-bf367aaf78b7.gif" width="100%" height="40" />
+<img src="https://user-images.githubusercontent.com/67906589/221605910-7039ecb4-41e5-4aa3-819b-bf367aaf78b7.gif" width="100%" height="100%" />
 
 ![Shankalpa koirala]()
