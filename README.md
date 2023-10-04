@@ -1,7 +1,7 @@
 <img width="996" alt="Screen Shot 2023-02-27 at 11 08 20 PM" src="https://user-images.githubusercontent.com/67906589/221635613-3418bc52-4555-466c-b8eb-56892900b0b5.png">
 
 <h1 align="center">Hi 👋, I'm Shankalpa</h1>
-<h3 align="center">A Passionate,Hard Working self taught Frontend Developer.😎</h3>
+<h3 align="center">A passionate, hard working self taught developer.😎</h3>
 
 <img align="right" width="22%" alt="Screen Shot 2023-02-27 at 11 08 20 PM" src="https://user-images.githubusercontent.com/67906589/221637182-7994f672-9163-4384-90eb-24a208550f91.jpg">
 
